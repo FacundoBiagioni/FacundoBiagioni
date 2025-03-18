@@ -45,23 +45,6 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
   <br>
 
   <!-- Nivel 2: Lenguajes -->
-  <kbd>
-    <kbd>Lenguajes</kbd>
-    <br>
-    <a href="https://html.com/html5/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    </a>
-  </kbd>
-
   <br>
 
   <!-- Nivel 3: Frameworks -->
@@ -138,7 +121,22 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </a>
   </kbd>
-
+  <kbd>
+    <kbd>Lenguajes</kbd>
+    <br>
+    <a href="https://html.com/html5/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    </a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    </a>
+  </kbd>
 </div>
 
 
