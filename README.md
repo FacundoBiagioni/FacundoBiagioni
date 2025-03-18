@@ -32,9 +32,9 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 ## 🛠️ Herramientas
 
 <p align=center>
- <h2> / current skills / </h2>
+ <kdb> / current skills / </kdb>
   
-- <h4> languages </h4>
+- <kdb> languages </kdb>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
