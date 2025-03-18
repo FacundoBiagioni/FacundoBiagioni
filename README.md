@@ -14,11 +14,13 @@
 	</a>
 </p>
 
-## ♑ About me
+## ♑ Sobre mi
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+👋 ¡Hola! Soy Facundo, nací en 2002, y desde siempre la tecnología ha sido parte de mi vida. Desde chico me atrapaba la curiosidad por entender cómo funcionaban las computadoras, y con el tiempo descubrí en el Frontend un espacio donde diseño, lógica y experiencia de usuario se combinan de forma creativa.
 
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+Además, mis años en atención al público me enseñaron a comunicarme con claridad, adaptarme a distintos contextos y trabajar en equipo con personas de perfiles diversos. Hoy, esas habilidades humanas, junto con mi formación en React y Next.js, me permiten crear experiencias digitales funcionales y alineadas con las necesidades reales de los usuarios.
+
+Si buscás un Frontend Developer que no solo escriba código, sino que entienda el impacto detrás de cada interfaz y se adapte con facilidad, entonces me contáctame.
 
 <br/>
 
@@ -139,8 +141,3 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
----
-
-Credit: [hungpham3112](https://github.com/hungpham3112)
-Last edited on: 28/08/2023
