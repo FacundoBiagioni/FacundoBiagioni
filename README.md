@@ -100,14 +100,9 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
     <kbd>
-      <kbd>Editor de Texto, IDE, Cuaderno</kbd>
+      <kbd>Editor de Texto</kbd>
       <br>
-      <br>
-      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://plutojl.org/" target="_blank"><img width="30px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
-      <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
       <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
       </kbd>
 </p>
 
