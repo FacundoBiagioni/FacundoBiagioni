@@ -14,7 +14,7 @@
 	</a>
 </p>
 
-## ♑ Sobre mi
+##  Sobre mi
 
 👋 ¡Hola! Soy Facundo, nací en 2002, y desde siempre la tecnología ha sido parte de mi vida. Desde chico me atrapaba la curiosidad por entender cómo funcionaban las computadoras, y con el tiempo descubrí en el Frontend un espacio donde diseño, lógica y experiencia de usuario se combinan de forma creativa.
 
