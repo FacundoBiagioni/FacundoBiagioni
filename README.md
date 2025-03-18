@@ -33,21 +33,21 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
 <div align="center">
 
-  <!-- Nivel 1: Sistema Operativo -->
+  <!-- Nivel 1 (Cima): Sistema Operativo -->
   <kbd>
     <kbd>Sistema Operativo</kbd>
-    <br><br>
+    <br>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     </a>
   </kbd>
 
-  <br><br>
+  <br>
 
-  <!-- Nivel 2: Lenguajes de Programación -->
+  <!-- Nivel 2: Lenguajes -->
   <kbd>
-    <kbd>Lenguajes de Programación</kbd>
-    <br><br>
+    <kbd>Lenguajes</kbd>
+    <br>
     <a href="https://html.com/html5/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     </a>
@@ -62,12 +62,12 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </a>
   </kbd>
 
-  <br><br>
+  <br>
 
-  <!-- Nivel 3: Frameworks y Librerías -->
+  <!-- Nivel 3: Frameworks -->
   <kbd>
-    <kbd>Frameworks y Librerías</kbd>
-    <br><br>
+    <kbd>Frameworks</kbd>
+    <br>
     <a href="https://react.dev/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </a>
@@ -76,12 +76,12 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </a>
   </kbd>
 
-  <br><br>
+  <br>
 
-  <!-- Nivel 4: Backend -->
+  <!-- Nivel 4: Backend y DB -->
   <kbd>
     <kbd>Backend</kbd>
-    <br><br>
+    <br>
     <a href="https://nodejs.org/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </a>
@@ -89,13 +89,9 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     </a>
   </kbd>
-
-  <br><br>
-
-  <!-- Nivel 5: Base de Datos -->
   <kbd>
     <kbd>Base de Datos</kbd>
-    <br><br>
+    <br>
     <a href="https://www.postgresql.org/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     </a>
@@ -104,34 +100,26 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </a>
   </kbd>
 
-  <br><br>
+  <br>
 
-  <!-- Nivel 6: Sistema -->
+  <!-- Nivel 5: Herramientas -->
   <kbd>
     <kbd>Sistema</kbd>
-    <br><br>
+    <br>
     <a href="https://git-scm.com/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     </a>
   </kbd>
-
-  <br><br>
-
-  <!-- Nivel 7: Hosting y Despliegue -->
   <kbd>
-    <kbd>Hosting y Despliegue</kbd>
-    <br><br>
+    <kbd>Hosting</kbd>
+    <br>
     <a href="https://vercel.com/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
     </a>
   </kbd>
-
-  <br><br>
-
-  <!-- Nivel 8: Scripts de Terminal -->
   <kbd>
-    <kbd>Scripts de Terminal</kbd>
-    <br><br>
+    <kbd>Terminal</kbd>
+    <br>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
     </a>
@@ -140,18 +128,19 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </a>
   </kbd>
 
-  <br><br>
+  <br>
 
-  <!-- Nivel 9: Editor de Texto -->
+  <!-- Nivel 6 (Base): Editor de Código -->
   <kbd>
-    <kbd>Editor de Texto</kbd>
-    <br><br>
+    <kbd>Editor</kbd>
+    <br>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </a>
   </kbd>
 
 </div>
+
 
 
 
