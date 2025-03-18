@@ -33,7 +33,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
 <p align=center>
  <kbd>
-      <kbd>Operating Sytem</kbd>
+      <kbd>Sistema Operativo</kbd>
       <br>
       <br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
@@ -43,7 +43,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
       <br>
     <kbd>
-      <kbd>Programming and Markup Languages</kbd>
+      <kbd>Lenguajes de Programación</kbd>
       <br>
       <br>
         <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
@@ -57,7 +57,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
       <br>
     <kbd>
-      <kbd>Data Science & AI</kbd>
+      <kbd>Ciencia de Datos e Inteligencia Artificial</kbd>
       <br>
       <br>
       <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
@@ -75,7 +75,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
         <a href="https://www.djangoproject.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd>Base de Datos</kbd>
       <br>
       <br>
       <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
@@ -84,7 +84,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
       <br>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <kbd>Sistema, Redes y Despliegue</kbd>
       <br>
       <br>
       <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
@@ -93,14 +93,14 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
       <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
     </kbd>
     <kbd>
-      <kbd>Terminal Scripts</kbd>
+      <kbd>Scripts de Terminal</kbd>
       <br>
       <br>
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
         <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
     </kbd>
     <kbd>
-      <kbd>Text editor, IDE, Notebook</kbd>
+      <kbd>Editor de Texto, IDE, Cuaderno</kbd>
       <br>
       <br>
       <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
