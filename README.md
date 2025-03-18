@@ -29,7 +29,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 ## Contribución Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## 🛠️ Tools
+## 🛠️ Herramientas
 
 <p align=center>
  <kbd>
@@ -113,7 +113,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
 <br/>
 
-## 📈 Github Profile Stats
+## 📈 Estadisticas de Github
 
 <p align="center">
     <a href="https://github.com/FacundoBiagioni">
@@ -125,7 +125,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
 <br/>
 
-## 📬 Contact me
+## 📬 Contáctame
 
 <p align=center>
     <a href="https://github.com/FacundoBiagioni" target="_blank">
