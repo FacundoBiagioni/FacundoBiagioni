@@ -48,18 +48,6 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
   <br>
 
   <!-- Nivel 3: Frameworks -->
-  <kbd>
-    <kbd>Frameworks</kbd>
-    <br>
-    <a href="https://react.dev/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    </a>
-  </kbd>
-
-  <br>
 
   <!-- Nivel 4: Backend y DB -->
   <kbd>
@@ -87,13 +75,6 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
   <!-- Nivel 5: Herramientas -->
   <kbd>
-    <kbd>Sistema</kbd>
-    <br>
-    <a href="https://git-scm.com/" target="_blank">
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    </a>
-  </kbd>
-  <kbd>
     <kbd>Hosting</kbd>
     <br>
     <a href="https://vercel.com/" target="_blank">
@@ -110,6 +91,16 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
     </a>
   </kbd>
+    <kbd>
+    <kbd>Frameworks</kbd>
+    <br>
+    <a href="https://react.dev/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    </a>
+  </kbd>
 
   <br>
 
@@ -119,6 +110,13 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     <br>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </a>
+  </kbd>
+    <kbd>
+    <kbd>Sistema</kbd>
+    <br>
+    <a href="https://git-scm.com/" target="_blank">
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     </a>
   </kbd>
   <kbd>
