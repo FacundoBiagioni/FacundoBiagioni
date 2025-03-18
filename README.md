@@ -57,12 +57,6 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
       <br>
     <kbd>
-      <kbd>Backend</kbd>
-      <br>
-      <br>
-        <a href="https://www.djangoproject.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
-    </kbd>
-    <kbd>
       <kbd>Base de Datos</kbd>
       <br>
       <br>
