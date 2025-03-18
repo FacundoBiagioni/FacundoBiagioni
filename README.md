@@ -128,14 +128,11 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 ## 📬 Contact me
 
 <p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
+    <a href="https://github.com/FacundoBiagioni" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
+    <a href="https://www.linkedin.com/in/facundobiagioni/" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:phamhung20022015@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
