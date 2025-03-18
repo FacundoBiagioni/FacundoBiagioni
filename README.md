@@ -70,7 +70,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
       <br>
     <kbd>
-      <kbd>Sistema, Redes y Despliegue</kbd>
+      <kbd>Sistema</kbd>
       <br>
       <br>
       <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
