@@ -78,19 +78,14 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
       <kbd>Base de Datos</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
     </kbd>
       <br>
     <kbd>
       <kbd>Sistema, Redes y Despliegue</kbd>
       <br>
       <br>
-      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
       <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
-      <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
     </kbd>
     <kbd>
       <kbd>Scripts de Terminal</kbd>
@@ -101,6 +96,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </kbd>
     <kbd>
       <kbd>Editor de Texto</kbd>
+      <br>
       <br>
       <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </kbd>
