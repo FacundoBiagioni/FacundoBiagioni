@@ -26,7 +26,7 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
 
 <br/>
 
-## Contribution Snake 
+## Contribución Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Tools
