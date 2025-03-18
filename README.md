@@ -42,7 +42,6 @@ Si buscás un Frontend Developer que no solo escriba código, sino que entienda 
     </a>
   </kbd>
 
-  <br>
 
   <!-- Nivel 2: Lenguajes -->
   <br>
