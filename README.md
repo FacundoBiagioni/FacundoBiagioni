@@ -4,7 +4,7 @@
 <div align=center>
 	<h2>
 		Facundo Biagioni, Front-End Developer
-	</h2 >
+	</h2>
 </div>
 <p align="center">
 	<a href="https://github.com/FacundoBiagioni">
