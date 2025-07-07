@@ -3,7 +3,7 @@
 </div> 
 <div align=center>
 	<h2>
-		Facundo Biagioni, Front-End Developer
+		Facundo Biagioni, Front-End DevelopeR
 	</h2>
 </div>
 <p align="center">
